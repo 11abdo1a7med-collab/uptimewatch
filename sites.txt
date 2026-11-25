@@ -1,0 +1,8 @@
+# Add one website URL per line.
+# The final URL is intentionally invalid to demonstrate DOWN handling.
+https://www.google.com
+https://www.github.com
+https://www.python.org
+https://www.wikipedia.org
+https://www.wikipedia.org
+https://uptimewatch-.invalid
