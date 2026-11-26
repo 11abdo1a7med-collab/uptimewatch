@@ -92,10 +92,6 @@ def main() -> int:
     print(f"\nSummary: {len(results) - down_count} UP, {down_count} DOWN")
 
     return 1 if down_count else 0
-     
-    down_count = sum(result["status"] == "DOWN" for result in results)
-
-    return 1 if down_count else 0
 
 
 if __name__ == "__main__":
