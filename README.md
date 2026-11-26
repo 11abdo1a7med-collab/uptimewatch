@@ -18,7 +18,7 @@ A small Python website uptime checker built as Week 1 of the SkillMe DevOps inte
 ## Setup
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/11abdo1a7med-collab/uptimewatch.git>
 cd <YOUR_REPOSITORY_NAME>
 
 python3 -m venv .venv
