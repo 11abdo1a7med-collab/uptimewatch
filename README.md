@@ -75,3 +75,6 @@ uptime-watch/
 ├── .gitignore
 └── README.md
 ```
+## Output
+
+![UptimeWatch Output](screenshots/outpot.png)
