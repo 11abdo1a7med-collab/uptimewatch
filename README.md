@@ -77,4 +77,4 @@ uptime-watch/
 ```
 ## Output
 
-![UptimeWatch Output](screenshots/outpot.png)
+![UptimeWatch Output](screenshots/output.png)
