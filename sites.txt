@@ -4,5 +4,4 @@ https://www.google.com
 https://www.github.com
 https://www.python.org
 https://www.wikipedia.org
-https://www.wikipedia.org
 https://uptimewatch-.invalid
